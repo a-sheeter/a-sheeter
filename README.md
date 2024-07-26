@@ -4,7 +4,7 @@
 - I want to specialize in: Javascript + React
 - My favorite VSCode theme is Dracula 🧛
 - Some top-tier shows: Modern Family, Letterkenny, It's Always Sunny, Superstore and Community. 
-- How to reach me: designershee@gmail.com
+- View some pens I'm working on: https://codepen.io/asheeter
 
 
 
